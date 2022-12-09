@@ -1,6 +1,10 @@
 # to run a backend
 
-use a command node app.js
+go to a server directory
+
+npm install
+
+node app.js
 
 ## Available Scripts
 
