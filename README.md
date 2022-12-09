@@ -1,6 +1,6 @@
 # to run a backend
 
-use a command node server.js
+use a command node app.js
 
 ## Available Scripts
 
