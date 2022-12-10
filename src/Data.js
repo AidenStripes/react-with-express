@@ -10,6 +10,7 @@ import {
   Td,
   TableCaption,
 } from '@chakra-ui/react'
+import './App.css';
 
 
 export const numberWithCommas = (number) => {
